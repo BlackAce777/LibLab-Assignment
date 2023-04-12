@@ -1,0 +1,3 @@
+// it is not the best practice to store token this way, But anyhow I need to make it run in other machines...
+const token = "1bVlf3XWs2_BIas5M23Y";
+export default token;
